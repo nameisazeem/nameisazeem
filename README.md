@@ -3,8 +3,8 @@
 
 ### <img src="http://www.hackthebox.eu/badge/image/159804" alt="Hack The Box" width="400px">
 
-
-- 🌱 I’m currently learning Hacking Advanced Level and Networking too 
+- 🔭 I'm currently working on my own project.
+- 🌱 I’m currently learning Cyber Security deeper and Networking too 
 - 👯 I’m looking to collaborate with other content creators and in projects
 
 ### 📺 Latest YouTube Videos
