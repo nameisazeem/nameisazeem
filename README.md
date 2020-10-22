@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Hacking Advanced Level and Networking too 
-- 👯 I’m looking to collaborate with other content creators 
+- 👯 I’m looking to collaborate with other content creators and in projects
 
 ### 📺 Latest YouTube Videos
 
@@ -15,3 +15,4 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCUICYCEWNGjB2KTKqO-67gA)
+
