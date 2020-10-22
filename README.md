@@ -16,3 +16,5 @@
 
 ➡️ [more videos...](https://youtube.com/channel/UCUICYCEWNGjB2KTKqO-67gA)
 
+
+![Sapien's github stats](https://github-readme-stats.vercel.app/api?username=nameisazeem&show_icons=true&theme=radical)
